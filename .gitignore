@@ -1,0 +1,10 @@
+/workspace/map
+/workspace/model/peoplenet
+*.engine
+*.onnx
+**/__pycache__
+*.mp4
+*.dot
+*.xml
+xml_check
+workspace/model/tracker/*.yml
